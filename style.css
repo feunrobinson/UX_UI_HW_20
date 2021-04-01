@@ -1,9 +1,30 @@
 /*Navigation*/
 body{
     font-family: 'Sora', sans-serif;
+    background: #F4FFE9;
+}
+.display-5{
+    font-size: 25px;
+}
+.page-header{
+    text-align: center;
 }
 .nav{
     display: flex;
     width: 100%;
     align-items: center;
+}
+.jumbotron1{
+    background-color: #93193C;
+    color: white;
+    height:350px;
+}
+.jumbotron{
+    text-align: center;
+}
+.container{
+    text-align: center;
+}
+.proto{
+    width: 50%;
 }
